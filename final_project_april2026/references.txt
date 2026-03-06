@@ -1,0 +1,5 @@
+
+
+- https://www.usgs.gov/centers/eros/science/usgs-eros-archive-landsat-archives-landsat-8-9-operational-land-imager-and
+- https://www.usgs.gov/centers/eros/science/usgs-eros-archive-landsat-archives-landsat-8-9-olitirs-collection-2-level-2
+- Dictionary, https://www.usgs.gov/centers/eros/science/landsat-collection-2-data-dictionary#landsat_scene_id
